@@ -1,25 +1,14 @@
-#Welcome to WCell!
+Welcome to my attempt at revitalizing the WoWCell Core.
 
-You can find our website at http://wcell.org/
 
-After downloading please follow the [Basic Setup](http://wiki.wcell.org/Basic_Setup) guide.
-If you are looking for some random bits and pieces about the project feel free to browse our [wiki](http://wiki.wcell.org/).
+Who knows, maybe I'll end up like the other 60+ forks of this core and only work on it for a short while.
 
-WCell focuses on a high degree of maintainability and customizability. It's clean codebase ensures that bugs can be fixed quickly and regressions are minimized.
+I couldn't find anything significant past 2016.
 
-###Strong points
+I didn't bother forking any other repository or branch because if WCell/WCell/Master is in the most obviously working state I will use that.
 
-* Very powerful subsystems (see [WCell API](http://wiki.wcell.org/WCell_API) for a simple overview over the API)  .
-     * [Spells](http://wiki.wcell.org/API:Spells).
-     * [Instances](http://wiki.wcell.org/API:Instances).
-     * [Gossip Menus](http://wiki.wcell.org/API:Gossip_Menus).
-     * [Addons](http://wiki.wcell.org/WCell_Addons).
-     * [More](http://wiki.wcell.org/API:World).
-* The simple but yet easily extendable command system.  
-* The good support  
-   * Post a question at our [forum](http://wcell.org/forum/).  
-   * Or join us on [IRC](http://wiki.wcell.org/WCell_Wiki:Community_Portal).
+I don't know that I plan to actually continue with the Original WCell codebase. Right now I am of the mind I will replicate a lot of the logic and understanding built into WCell. Perhaps as I learn more I will change my mind.
 
-###Feature completeness 
+I love WoW Emulation, I've played/worked with Private servers since I was young, and I wish to see a fruitful project like this come back to life.
 
-All features are implemented up to a certain degree where some work very well and some are untested (but probably can be easily made fit, once tested).
+Plus I'm bored.
